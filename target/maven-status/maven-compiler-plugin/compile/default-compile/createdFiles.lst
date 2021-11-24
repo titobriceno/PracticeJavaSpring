@@ -1,0 +1,4 @@
+com/pruevas/AccountMs/AccountMsApplication.class
+com/pruevas/AccountMs/repositories/AccountRepository.class
+com/pruevas/AccountMs/controllers/AccountController.class
+com/pruevas/AccountMs/models/Account.class
